@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+button{
+    width: 280px;
+    background-color: #f45369;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 11px 20px 14px;
+    font-size: 24px;
+    color: #fff!important;
+    line-height: 30px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    transition: .3s linear;
+
+}
+#inp{
+ 
+    outline: none;
+    border: 1px solid #010101;
+    background-color: #fff;
+    transition: border-color .5s ease;
+    border-radius: 8px;
+    display: block;
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
